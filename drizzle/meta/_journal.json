@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1755519630878,
+      "tag": "0000_natural_ultragirl",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1755520749880,
+      "tag": "0001_crazy_jocasta",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1755523661928,
+      "tag": "0002_woozy_hellfire_club",
+      "breakpoints": true
+    }
+  ]
+}
